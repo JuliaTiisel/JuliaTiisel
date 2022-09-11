@@ -9,7 +9,7 @@
 </p>
 
 
-<h4>🌱  I'm currently learning...</h4>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align='center'> 
    <img align="center" alt="Julia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
