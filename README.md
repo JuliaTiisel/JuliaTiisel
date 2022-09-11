@@ -3,6 +3,10 @@
 
 <p align='center'> 🔭 Technologist in Analysis And Systems Development/QA Test Analyst </p>
 
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=JuliaTiisel.visitor-badge"></a>
+</p>
+
 
 
 <div style="display: inline_block"><br>
