@@ -1,7 +1,7 @@
 ## <h1 align='center'> Hi there 👋, I'm Julia 👩‍💻 </h1>
 
 
-<h1 align='center'> 🔭 Technologist in Analysis And Systems Development/QA Test Analyst </h1>
+<h2 align='center'> 🔭 Technologist in Analysis And Systems Development/QA Test Analyst </h2>
 
 
 
