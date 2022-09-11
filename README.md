@@ -8,7 +8,6 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=JuliaTiisel.visitor-badge"></a>
 </p>
 
-##
 <hr>
 
 <h4>🌱  I'm currently learning...</h4>
