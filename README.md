@@ -8,8 +8,10 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=JuliaTiisel.visitor-badge"></a>
 </p>
 
+##
+<hr>
 
-
+<h4>🌱  I'm currently learning...</h4>
 <p align='center'> 
    <img align="center" alt="Julia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,7 +21,6 @@
   <img align="center" alt="Julia-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
   <img align="center" alt="Julia-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
   <img align="center" alt="Julia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
   </p>
   
   ##
@@ -30,13 +31,18 @@
   <a href = "mailto:juliatiisel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-dutra-11061421b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </p>
+   </div>
+   
+  ##
+  
+  <div> 
+   <p align='center'>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+     </p>
  
 </div>
  
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 
 
