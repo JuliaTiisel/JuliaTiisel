@@ -2,7 +2,7 @@
 ## <h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Julia 👩‍💻 </h1>
 
 
-<p align='center'> 🔭 Technologist in Analysis And Systems Development/QA Test Analyst </p>
+<p align='center'> 🔭 Software Analysis and Development/QA Test Analyst </p>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=JuliaTiisel.visitor-badge"></a>
